@@ -6,7 +6,8 @@
 
 # 每周导读
 
-
+1. [运活人，大无语](https://mp.weixin.qq.com/s/Ia8HNoD7AWVeC-hHQQQSlw)
+2. [隔离来信20：该相信些什么呢？| 随机信箱](https://mp.weixin.qq.com/s/kvqWsMQEQ2wSkOy1R6S_6g)
 
 # 实用工具
 
@@ -23,18 +24,19 @@
 2. [lichess](https://lichess.org/): 免费的在线国际象棋
 3. [SVG Silh](https://svgsilh.com/): 一个基于 CC0 协议开放的 SVG 素材网站，收录了诸多 SVG 图像与图标，所有素材均可免费商用
 4. [SSH的工作原理](https://4rkal.medium.com/how-ssh-works-9349293cdf61)
+5. [免费领酷我畅听会员](https://h5app.kuwo.cn/m/vipcode/index.html)
 
 # 游戏限免
 
-[Terraforming Mars「改造火星 / 重塑火星 / 殖民火星」-- Steam](https://store.epicgames.com/p/terraforming-mars-18c3ad)
-![img]()
+1. [Terraforming Mars「改造火星 / 重塑火星 / 殖民火星」-- Epic](https://store.epicgames.com/p/terraforming-mars-18c3ad)
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKTb4v4WrCice84HvFfrrFYUaCuTmJe9lSb2jZuqm1uwXgEAAo1sCZ809uXibal0ibUjBkVtTmB0KEB3A/0?wx_fmt=png)
 注：领取截止！5/12，23:00
 
 # 历史上的本周
 
-1. []()
-![img]()
-2. []()
-![img]()
-3. []()
-![img]()
+1. [每周分享第一百一十九期](https://mp.weixin.qq.com/s/GGgmBZYkCCgNFCByJpEK7Q)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKTmJMlvPs5z1qR27gcedy6cSNT5pVhghpmT5FCfbu6CCYLpzD76A4Yb80Diaftcjao8E9Fd20sRFUQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+2. [每周分享第六十七期](https://mp.weixin.qq.com/s/6dDvi0RqiGxysw0Hn4XkBQ)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKRlIlI5vKv5tOSLDq0KncvyBCpiaN8PpoIREp4Xnddh8Jfjv3icrwsrTkzK1fhl7t9CdZRIOeCXgcWw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+3. [每周分享第十五期](https://mp.weixin.qq.com/s/BF-HnBUCBRocedM5Pm2DoA)
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/pDARXZuibAKS9l5jyg3n6t06IrPDEianJaG2dDNuqLV3ia6nET5EBibXVj3KOGsmx9O9a4n3IOLAZ89srHw8GmDESw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
