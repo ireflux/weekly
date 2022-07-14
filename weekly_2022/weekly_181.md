@@ -1,5 +1,8 @@
 # 近日资讯
 
+1. [各地多达 52 个停工烂尾楼盘宣布停贷，此举是否会引发大规模的业主停贷断供？](https://www.zhihu.com/question/543071939)
+2. 
+
 # 每周导读
 
 1. [【睡前消息457】三周年纪念，在骂声中成长](https://www.bilibili.com/video/BV1yZ4y1Y78j)
