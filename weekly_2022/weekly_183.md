@@ -1,5 +1,7 @@
 # 近日资讯
 
+1. [瑞克和莫蒂 第六季 Rick and Morty Season 6 (2022) 将9月4日开播](https://movie.douban.com/subject/35597581/)
+
 # 每周导读
 
 # 实用工具
@@ -9,7 +11,6 @@
 # 游戏限免
 
 # 历史上的本周
-
 
 1. 2021年: [每周分享第一百三十一期](https://mp.weixin.qq.com/s/jG1aJzOW8O8G1rbK1TEluQ)
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKRFBmWicYhnsJFydEfYBHh5a0tibBibK3ib5K2AjiaON5I1mwrViasHT859y25uHHjSPmAibsYwuZRJDHlpQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
