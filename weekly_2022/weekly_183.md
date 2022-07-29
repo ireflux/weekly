@@ -1,6 +1,7 @@
 # 近日资讯
 
-1. [瑞克和莫蒂 第六季 Rick and Morty Season 6 (2022) 将9月4日开播](https://movie.douban.com/subject/35597581/)
+[如何评价视频博主衣戈猜想发布的视频《回村三天，二舅治好了我的精神内耗》？](https://www.zhihu.com/question/545268208)
+[瑞克和莫蒂 第六季 Rick and Morty Season 6 (2022) 将9月4日开播](https://movie.douban.com/subject/35597581/)
 
 # 每周导读
 
