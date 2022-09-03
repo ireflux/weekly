@@ -4,7 +4,7 @@
 2. [Github 正在考虑弃用 Trending 标签页](https://github.com/orgs/community/discussions/31644)
 3. [USB4 2.0新标准已发布：有源速率翻倍至80Gbps](https://www.angstronomics.com/p/usb4-v2)
 4. [你使用的公网IP有可能是假的](https://www.v2ex.com/t/875867)
-5. [AMD首批Zen4架构CPU](https://www.qbitai.com/2022/08/37360.html)
+5. [AMD 首批 Zen4 架构CPU](https://www.qbitai.com/2022/08/37360.html)
 6. [9 月各地一系列新规将正式实施，涉及医保、婚姻登记、公积金、教育等多领域，哪些细节值得关注？](https://www.zhihu.com/question/550816003)
 
 # 每周导读
@@ -21,12 +21,12 @@
 # 实用工具
 
 1. [Gorgeous-GRUB](https://github.com/jacksaur/Gorgeous-GRUB): 这个仓库收集了很多 GRUB 的主题，可以随意更换
-2. [Visuwords](https://visuwords.com/): 可视化英语词典，一次性get到近义词、反义词，甚至是从属关系和因果关系的词汇，并能形成一张清晰的单词关系脉络网
+2. [Visuwords](https://visuwords.com/): 可视化英语词典，一次性 get 到近义词、反义词，甚至是从属关系和因果关系的词汇，并能形成一张清晰的单词关系脉络网
 3. [genact](https://github.com/svenstaro/genact): 假装电脑很忙，毫无用处的程序员忙碌状态生成器
 4. [Maple-font](http://github.com/subframe7536/Maple-font): 开源的圆角等宽字体
 5. [TableConvert](https://tableconvert.com/zh-CN/): 一个免费强大的在线表格转换工具
-6. [1loc.dev](https://1loc.dev/): 这个网站收集了很多1行JS代码实现的常用的功能
-7. [GNews](https://github.com/ranahaani/GNews): Google新闻的非官方搜索API
+6. [1loc.dev](https://1loc.dev/): 这个网站收集了很多 1 行 JS 代码实现的常用的功能
+7. [GNews](https://github.com/ranahaani/GNews): Google新闻的非官方搜索 API
 8. [CrazyGames](https://www.crazygames.com/): 该网站有非常多的网页小游戏，也有双人游戏。手游玩累了来和朋友一起玩玩二人游戏还是挺有趣的
 9. [anti-AD](https://github.com/privacy-protection-tools/anti-AD): 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护
 10. [The Colour Clock](http://thecolourclock.com/): 用当前时间显示当前颜色
