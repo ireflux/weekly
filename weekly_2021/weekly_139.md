@@ -33,7 +33,7 @@
 
 1. [Minion Masters「随从大师」 - Mordar’s Malediction -- Steam](https://store.steampowered.com/app/1748780/Minion_Masters__Mordars_Malediction/)
 ![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKTlyibUMNGsybQhWjd8ajhRccpBws5xibukQACcXWrW1r5IibVRNUkiavUC4WOKTkX2mqeFfRS5bgMz3g/0?wx_fmt=png)
-注：领取截止！9/28，1:00
+注：领取截止！9/28，1:00  
 注：此限免为 DLC，本体免费！
 2. [The Escapists「逃脱者」 -- Epic](https://www.epicgames.com/store/en-US/p/the-escapists)
 ![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKTlyibUMNGsybQhWjd8ajhRc0gvxXticTGats5bOAOVtoVYkXicYs7f0NMVicO7eMeTia8oEWuUcmyOxmw/0?wx_fmt=png)
