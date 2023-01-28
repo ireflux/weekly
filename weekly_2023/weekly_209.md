@@ -11,7 +11,7 @@
 
 # 实用工具
 
-1. [Bottles](https://github.com/bottlesdevs/Bottles) 在 Linux 运行 Windows 上的应用和游戏，适合轻度使用
+1. [Bottles](https://github.com/bottlesdevs/Bottles): 在 Linux 运行 Windows 上的应用和游戏，适合轻度使用
 2. [Kotatsu](https://github.com/KotatsuApp/Kotatsu): 开源的安卓漫画阅读器
 3. [bashtop](https://github.com/aristocratos/bashtop): 一位来自瑞典的开发者近日在 GitHub 上开源了一款 Linux 资源监控器
 4. [Falcon](https://github.com/plotly/falcon): 一个开源的 SQL 编辑器
@@ -30,24 +30,24 @@
 # 资源共享
 
 1. [世界概况](https://www.cia.gov/the-world-factbook/): 为 266 个世界实体提供有关历史、人民、政府、经济、能源、地理、环境、通信、交通、军事、恐怖主义和跨国问题的基本情报
-2. [Google MusicLM](https://google-research.github.io/seanet/musiclm/examples/): 从文本/图像生成音乐的AI模型 
+2. [Google MusicLM](https://google-research.github.io/seanet/musiclm/examples/): 从文本/图像生成音乐的 AI 模型 
 3. [worldlandscapearchitect](https://worldlandscapearchitect.com/): 世界景观设计奖
 4. [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/)
 
 # 游戏限免
 
 1. [The Cycle: Frontier - Fortuna Survivor「风暴奇侠 / 循环：前线 - 幸宿幸存者包」-- Steam](https://store.steampowered.com/app/2089570/The_Cycle_Frontier__Fortuna_Survivor/)
-![img]()
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKQYEOEoPEJBNYeG4eb1TRD6cM0O65D9EN4W8xjibnaIk6Uev8KMroSbP7lEpibk4vMLialdibUCLnC37w/0?wx_fmt=png)
 注：领取截止！2/8，2:00  
 注：Steam 先领本体再获取 DLC！
 2. [Hell is Others「他人即地狱」-- Epic](https://store.epicgames.com/p/hell-is-others-789262)
-![img]()
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKQYEOEoPEJBNYeG4eb1TRD6KY0v8IMZ2yel1YEgcKAEAQNm6hMrr2XL1icoP8f1hjERA34DWvNM7Wg/0?wx_fmt=png)
 注：领取截止！2/3，00:00
 3. [Adios「再见」-- Epic](https://store.epicgames.com/p/adios-b378b4)
-![img]()
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKQYEOEoPEJBNYeG4eb1TRD6mnQkLsStuibIoxTegJ5KDnicEuGO0Sqic0fHqx70iavZvoKiaJTS5WibgibXA/0?wx_fmt=png)
 注：领取截止！2/3，00:00
 4. [CDPR Goodie Pack -- GOG](https://www.gog.com/#giveaway)
-![img]()
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKQYEOEoPEJBNYeG4eb1TRD6sicV83EZUpvKFtN7CZrugkqtDu7R4iaovp4eiacLaJFAccvDh78hZfRxA/0?wx_fmt=png)
 注：领取截止！1/30，7:00
 
 # 历史上的本周
