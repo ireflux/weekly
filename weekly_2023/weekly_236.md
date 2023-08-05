@@ -19,7 +19,7 @@
 1. [Talk](https://github.com/vasanthv/talk): 一个免费、点对点、开源的网络视频通话工具，不需要注册，也不需要下载应用，还可以生成随机房间号，支持自部署
 2. [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui): 一个高效便携的歌曲人声抠除工具
 3. [Sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): 实用的 SQLite 可视化数据库桌面管理工具
-4. [Web Check](https://github.com/lissy93/web-check) - 一款开源的网站信息查询工具
+4. [Web Check](https://github.com/lissy93/web-check): 一款开源的网站信息查询工具
 5. [Acode editor](https://github.com/deadlyjack/Acode): 适用于 Android 的强大文本/代码编辑器 
 6. [Motionity](https://github.com/alyssaxuu/motionity): 免费开源的在线动画设计工具
 7. [PDF Guru](https://github.com/kevin2li/PDF-Guru): 一个通用型 PDF 文件处理工具，包含PDF合并、拆分、旋转、水印、加密、转换等 20 多项常用功能
