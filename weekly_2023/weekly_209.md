@@ -59,3 +59,4 @@
 3. 2020-01-31: [每周分享第五十三期](https://mp.weixin.qq.com/s/0ikKaoeSE0Y-A_Twhay9tw)
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKQq642DZib2lJRaGDxPZlO5OmYlsg9NXSPMcslpvdxibVFauicV4DFmApudfeCicLLxGqPcs0FjqjKcHw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 4. 2019-02-03: [每周分享第一期](https://mp.weixin.qq.com/s/UXtdDNh78_RsJthQF4jnCA)
+![img](http://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKSnictjthLPpIWYm0VicHs4kTx529dpsGp9kTibtIypU6EOOc2QvhBcw2JBibJ3fD9hbiaESx6woQIPjOQ/640?wx_fmt=png&from=appmsg)
