@@ -48,4 +48,5 @@
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKR05ibXLuB4q0PiaupHlrw5KyiayDG1zRYjo6ib0GAsliau6pqaq9SoByQgrBjfc0U0IOibAZz8FicP3sp2w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 3. 2020-02-07: [每周分享第五十四期](https://mp.weixin.qq.com/s/bSXNBWBH5-VYvmsfO1V9-w)
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKQTABQ3Sic9jb7aor9qPhyPuIG8gUgzicMwTs2KCIWCNQpNZSttuB0MiaPL1TGwMEY5e2YYVuA0k10pA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-4. 2019年: [每周分享第二期](#)
+4. 2019-02-08: [每周分享第二期](#)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKSUqBhJGjm5lCJz8HmfSsIbOzbEKQV9ChcvNjHia74Vc8utdfsZ8wVvrfibibheSqzS0c77J3VfnzRIg/640?wx_fmt=jpeg&amp;from=appmsg)
