@@ -51,7 +51,7 @@
 
 # 历史上的本周
 
-1. 2022年: [每周分享第一百八十六期](https://mp.weixin.qq.com/s/YXzzZdTepGEf47VgXhj6rw)
+1. 2022-08-20: [每周分享第一百八十六期](https://mp.weixin.qq.com/s/YXzzZdTepGEf47VgXhj6rw)
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKRbE8Y9f97LQIQgkyDP9IAxTh7Mwa3bfS5HrTp16rh0qdA0iayDUibBIjr1Fibg9dK8icjURnM7FpHLDg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 2. 2021-08-21: [每周分享第一百三十四期](https://mp.weixin.qq.com/s/bm92xyBrEBKSfZbL4OBk0g)
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKTy289Hc7OBOaMIJicv5fGSCsPtyXdG055ETC8ibcQB6GdEUZicxv1lRoA92f5uMtbIXtnIS92KLOWKQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
