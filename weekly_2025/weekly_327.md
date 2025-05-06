@@ -1,0 +1,49 @@
+# 近日资讯
+
+1. [如何评论外交部发布双语视频《不跪！》？](https://www.zhihu.com/question/1900474238470697256)
+2. [中日友好医院胸外科副主任被曝出轨多人，官方通报「属实，已被开除党籍，并解聘」，具有哪些警示意义？](https://www.zhihu.com/question/1899793322484130505)
+3. [董袭莹被指毕业于哥大巴纳德学院，不符合协和「4+4」招生要求，她的升学路径反映出哪些问题？](https://www.zhihu.com/question/1900905146491299642)
+4. [幸福航空被曝欠薪 9 个月，飞行员送外卖空姐卖爆米花自谋生计，该航司经营出了什么问题？具体情况如何？](https://www.zhihu.com/question/1900230974308071261)
+5. [泡泡玛特拉布布 3.0 开售被抢空，有联名款原价 599 元炒到 1.4 万，消费者究竟在为什么买单？](https://www.zhihu.com/question/1899745186277490701)
+
+# 每周导读
+
+1. [医学速成引争议，协和“4+4”何去何从](https://epaper.oeeee.com/epaper/A/html/2025-05/02/content_4515.htm)
+
+# 实用工具
+
+1. [Shui](https://github.com/rock-zhang/Shui/): macOS 喝水提醒小助手，支持每日饮水目标设定、智能时间管理、多样化提醒方式等功能
+2. [Passport Index](https://www.passportindex.org/cn/): 全球护照排名分析平台，提供各国护照免签、落地签等信息，并计算全球流动性分数进行排名
+3. [typing-practice](https://github.com/wincatcher/typing-practice.toolsnav.top): 开源在线英文打字练习平台，支持实时速度和准确率统计、动态速度曲线图表显示等功能
+4. [Shkiper](https://github.com/Efimj/Shkiper): 现代化 Android 笔记应用，支持笔记编辑、标签分类、待办事项管理及提醒功能
+5. [tts-tauri](https://github.com/zs1083339604/tts-tauri/): 开源轻量级微软配音工具，支持生成配音及字幕文件，体积小巧
+6. [LDDC](https://github.com/chenmozhijin/LDDC): 跨平台歌词下载与匹配工具，支持从多个音乐平台获取歌词并保存为多种格式
+7. [CopyQ](https://hluk.github.io/CopyQ/): 跨平台高级剪贴板管理器，支持历史记录管理、标签分类、搜索过滤和脚本扩展等功能
+8. [InStock股票系统](https://github.com/myhhub/stock): 开源量化投资系统，支持股票数据获取、技术指标计算、选股策略及回测验证等功能
+9. [WeChatAI](https://github.com/Vita0519/WeChatAI): 微信聊天智能助手，支持多会话监听与自动回复，支持多种 AI 模型
+10. [Cua](https://github.com/trycua/cua): 在苹果芯片上运行高性能 macOS 和 Linux 虚拟机，支持 AI Agent，性能卓越且安全隔离
+
+# 资源共享
+
+1. [Modern Robotics Course](https://github.com/madibabaiasl/modern-robotics-course/wiki): 为机器人学习者提供一站式教育资源，涵盖基础到高级应用，结合 ROS2 和 Python
+2. [CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes): 提供全面 CUDA 学习资源，涵盖多种数据类型和优化特性
+
+# 游戏限免
+
+1. [Super Space Club「超级太空俱乐部」](https://store.epicgames.com/zh-CN/p/super-space-club-20adbe)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKS7MybNL8fpYlsAFfdeQpEV9DSj9HFq8BBDGLSwXD3VyQX9aWIkN9EtCX1d8yRA9pD2trCYIDCIibA/640?wx_fmt=png&amp;from=appmsg)
+
+# 历史上的本周
+
+1. 2024-05-05: [每周分享第二百七十五期](https://mp.weixin.qq.com/s/pDmEWmTV3Olvf4IbilvUEQ)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_png/pDARXZuibAKS96TSJUZFMdrz4Oqr34Xib5uYXOIr6vyMHR6QftZG7ZRnu2U9whjTVkYGibldEYCslKl7q115AqpJA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+1. 2023-05-06: [每周分享第二百二十三期](https://mp.weixin.qq.com/s/JiQjnFMo7gpTCznNZWzUzw)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKR2n8aRNTVicjibmtB8cqKy3nHeRLXG2PHucQH2n1mKOXQX78E4KmXvuD2ibPxnzYXnUcu3ZticrpMwTA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+2. 2022-05-07: [每周分享第一百七十一期](https://mp.weixin.qq.com/s/B0To_L80zc1nkBJF5vsmnw)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKTb4v4WrCice84HvFfrrFYUaCXNVgDUdKobf8G1h1DdN0ibhU42zgdMeibUAUNicMOm2n5AKq2ACab2eg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+3. 2021-05-08: [每周分享第一百一十九期](https://mp.weixin.qq.com/s/GGgmBZYkCCgNFCByJpEK7Q)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKTmJMlvPs5z1qR27gcedy6cSNT5pVhghpmT5FCfbu6CCYLpzD76A4Yb80Diaftcjao8E9Fd20sRFUQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+4. 2020-05-09: [每周分享第六十七期](https://mp.weixin.qq.com/s/6dDvi0RqiGxysw0Hn4XkBQ)
+![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/pDARXZuibAKRlIlI5vKv5tOSLDq0KncvyBCpiaN8PpoIREp4Xnddh8Jfjv3icrwsrTkzK1fhl7t9CdZRIOeCXgcWw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+5. 2019-05-10: [每周分享第十五期](https://mp.weixin.qq.com/s/BF-HnBUCBRocedM5Pm2DoA)
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/pDARXZuibAKS9l5jyg3n6t06IrPDEianJaG2dDNuqLV3ia6nET5EBibXVj3KOGsmx9O9a4n3IOLAZ89srHw8GmDESw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
